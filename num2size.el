@@ -1,5 +1,5 @@
 ;; doc: 1. In emacs. (load-file num2size.el)
-;;      2. Use it.
+;;      2. Use it, or edit it, or add TB PB.
 ;; version: 1.0
 ;; example:
 ;;      (num2size #x21314312313) = (2124 GB 323 MB 72 KB 787 byte)
