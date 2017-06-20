@@ -1,4 +1,5 @@
 /* test time the code takes */
+/* stdout: 0.000240 s       */
 
 #include <stdio.h>
 #include <time.h>
